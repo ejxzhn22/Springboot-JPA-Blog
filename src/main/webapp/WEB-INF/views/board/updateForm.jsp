@@ -24,7 +24,7 @@
 		height : 300
 	});
 </script>
-<script src="/js/board.js"></script>
+<script type="text/javascript" src="/js/board.js"></script>
 
 <%@ include file="../layout/footer.jsp"%>
 
